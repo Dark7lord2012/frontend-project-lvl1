@@ -1,0 +1,23 @@
+{
+  "name": "frontend-project-1",
+  "version": "1.0.0",
+  "description": "brain-games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dark7lord2012/frontend-project-lvl1.git"
+  },
+  "keywords": [
+    "hexlet",
+    "frontend"
+  ],
+  "author": "budda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dark7lord2012/frontend-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/Dark7lord2012/frontend-project-lvl1#readme"
+}
